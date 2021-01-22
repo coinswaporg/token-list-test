@@ -1,0 +1,53 @@
+{
+	"name": "CoinSwap Menu",
+	"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/main/assets/coinswap_logo.png",
+	"keywords": ["coinswap", "swap"],
+	"timestamp": "2021-01-14T00:00:00+00:00",
+	"tokens": [
+        {
+			"address": "0xccD2C63E6654AF1bF838804fb8Fc28398089E50a",
+			"chainId": 62760,
+			"name": "DoubiToken",
+			"symbol": "DT",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/main/assets/tokens/0xccd2c63e6654af1bf838804fb8fc28398089e50a.png"
+		},
+		{
+			"address": "0x1fFd8E54F0F4d2A471Dd7A7d38B629e865D30b1D",
+			"chainId": 62760,
+			"name": "WrappedEther",
+			"symbol": "WETH",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/main/assets/tokens/asset_ETH.svg"
+		},
+		{
+			"address": "0xC8A35234691A2021A28cA90256e8977c2bF8AdeF",
+			"chainId": 62760,
+			"name": "TetherToken",
+			"symbol": "USDT",
+			"decimals": 18,
+			"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/main/assets/tokens/asset_USDT.svg"
+        },
+        {
+            "address": "0xe4e51eD0a1C3886E3418c0b5F3D024224aAf5F3e",
+            "chainId": 62760,
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/main/assets/tokens/asset_DAI.svg"
+        },
+        {
+            "address": "0xA2743c24f7efB972F0CfE2134c02f5ab1B786aB1",
+            "chainId": 62760,
+            "name": "pyb",
+            "symbol": "PYB",
+            "decimals": 10,
+            "logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/main/assets/tokens/0xa2743c24f7efb972f0cfe2134c02f5ab1b786ab1.png"
+        }
+	],
+	"version": {
+		"major": 0,
+		"minor": 0,
+		"patch": 0
+	}
+}
