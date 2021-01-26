@@ -1,6 +1,6 @@
 {
 	"name": "CoinSwap Menu",
-	"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/coinswap_logo.png",
+	"logoURI": "https://raw..com/coinswaporg/token-list-test/master/assets/coinswap_logo.png",
 	"keywords": ["coinswap", "swap"],
 	"timestamp": "2021-01-14T00:00:00+00:00",
 	"tokens": [
@@ -37,17 +37,81 @@
             "logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/tokens/asset_DAI.svg"
         },
         {
+            "address": "0x7F11Fd37A51409a5dB1b79abb9616B227e780a7E",
+            "chainId": 62760,
+            "name": "USD Coin USDC",
+            "symbol": "USDC",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/tokens/asset_USDC.svg"
+        },
+        {
+            "address": "0x086e9cfc2d576eccebf0a8929e573a1eef5ced16",
+            "chainId": 62760,
+            "name": "yearn.finance",
+            "symbol": "YFI",
+            "decimals": 18
+        },
+        {
+            "address": "0xf5dc692909086d83414c009eee5a41e145c42596",
+            "chainId": 62760,
+            "name": "Synthetix Network T",
+            "symbol": "SNX",
+            "decimals": 18
+        },
+        {
+            "address": "0xbb016705ceada3e42765d040f53602949776475d",
+            "chainId": 62760,
+            "name": "Aragon",
+            "symbol": "ANT",
+            "decimals": 18
+        },
+        {
+            "address": "0xcd5b0fe0e338dd2ded9e34371ea2369de34adefc",
+            "chainId": 62760,
+            "name": "Chainlink",
+            "symbol": "LINK",
+            "decimals": 18
+        },
+        {
+            "address": "0x4ed0188375c204efe19900f5d07d64fe33bbe6a3",
+            "chainId": 62760,
+            "name": "Compound",
+            "symbol": "COMP",
+            "decimals": 18
+        },
+        {
+            "address": "0x973e42efb11104227f19fa40ccb724a018fc9c98",
+            "chainId": 62760,
+            "name": "Maker",
+            "symbol": "MKR",
+            "decimals": 18
+        },
+        {
+            "address": "0x521d77a680f56c4621325f8056d460fe5b0c57fe",
+            "chainId": 62760,
+            "name": "EURBASE",
+            "symbol": "EBASE",
+            "decimals": 18
+        },
+        {
+            "address": "0x51312cf71d562b8db102429f5c830df1c92511a1",
+            "chainId": 62760,
+            "name": "TrustUSD",
+            "symbol": "TUSD",
+            "decimals": 18
+        },
+        {
             "address": "0xA2743c24f7efB972F0CfE2134c02f5ab1B786aB1",
             "chainId": 62760,
             "name": "pyb",
             "symbol": "PYB",
             "decimals": 10,
-            "logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/tokens/0xa2743c24f7efb972f0cfe2134c02f5ab1b786ab1.png"
+            "logoURI": "https://raw..com/coinswaporg/token-list-test/master/assets/tokens/0xa2743c24f7efb972f0cfe2134c02f5ab1b786ab1.png"
         }
 	],
 	"version": {
 		"major": 0,
-		"minor": 0,
+		"minor": 1,
 		"patch": 0
 	}
 }
