@@ -8,7 +8,7 @@
 			"address": "0xAdea1707005E0196927EE243160d62ab0680CcdE",
 			"chainId": 62760,
 			"name": "DoubeToken",
-			"symbol": "DT",
+			"symbol": "DBT",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/tokens/0xccd2c63e6654af1bf838804fb8fc28398089e50a.png"
 		},
@@ -111,7 +111,7 @@
 	],
 	"version": {
 		"major": 0,
-		"minor": 6,
+		"minor": 7,
 		"patch": 0
 	}
 }
