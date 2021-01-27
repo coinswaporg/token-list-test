@@ -7,7 +7,7 @@
         {
 			"address": "0xccD2C63E6654AF1bF838804fb8Fc28398089E50a",
 			"chainId": 62760,
-			"name": "DoubiToken",
+			"name": "DoubeToken",
 			"symbol": "DT",
 			"decimals": 18,
 			"logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/tokens/0xccd2c63e6654af1bf838804fb8fc28398089e50a.png"
@@ -43,6 +43,13 @@
             "symbol": "USDC",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/coinswaporg/token-list-test/master/assets/tokens/asset_USDC.svg"
+        },
+        {
+            "address": "0x51312cf71d562b8db102429f5c830df1c92511a1",
+            "chainId": 62760,
+            "name": "TrustUSD",
+            "symbol": "TUSD",
+            "decimals": 18
         },
         {
             "address": "0x086e9cfc2d576eccebf0a8929e573a1eef5ced16",
@@ -91,13 +98,6 @@
             "chainId": 62760,
             "name": "EURBASE",
             "symbol": "EBASE",
-            "decimals": 18
-        },
-        {
-            "address": "0x51312cf71d562b8db102429f5c830df1c92511a1",
-            "chainId": 62760,
-            "name": "TrustUSD",
-            "symbol": "TUSD",
             "decimals": 18
         },
         {
