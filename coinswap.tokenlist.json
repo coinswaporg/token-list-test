@@ -5,7 +5,7 @@
 	"timestamp": "2021-01-14T00:00:00+00:00",
 	"tokens": [
         {
-			"address": "0x9c57a35561d85a4bf59a90d639af0d6d7d04c5fc",
+			"address": "0xAdea1707005E0196927EE243160d62ab0680CcdE",
 			"chainId": 62760,
 			"name": "DoubeToken",
 			"symbol": "DT",
@@ -111,7 +111,7 @@
 	],
 	"version": {
 		"major": 0,
-		"minor": 5,
+		"minor": 6,
 		"patch": 0
 	}
 }
